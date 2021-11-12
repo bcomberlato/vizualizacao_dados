@@ -1,4 +1,4 @@
-from die import Die
+from dice.die import Die
 import pygal
 
 
